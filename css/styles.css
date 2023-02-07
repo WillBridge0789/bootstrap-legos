@@ -1,6 +1,8 @@
 /* Your code goes here, if needed */
 
-
+.row {
+    height: 100vh
+}
 
 /* DO NOT CHANGE CODE BELOW THIS LINE */
 .red {
